@@ -15,4 +15,4 @@ yacc.y
 
 # Exemplo com Erro de Sintaxe
 
-![Falha](https://github.com/alexeloy/yacc_eloy/blob/master/Screenshot_Falha.jpg)
+![Falha](https://github.com/alexeloy/yacc_eloy/blob/master/Screenshot_Falha.JPG)
