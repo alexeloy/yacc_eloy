@@ -10,6 +10,7 @@
 
 line: input '\n'{
     printf("Sintaxe Correta\n");
+    return 0;
 };
 
 input: select items from condition;
